@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>polls</name>
-	<description>Polling App built with Spring Boot, Spring Security, MySQL and JWT</description>
+	<description>Onplan Spring Boot, Spring Security, MySQL and JWT</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
